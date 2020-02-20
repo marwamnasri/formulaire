@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(22, 12, 48);
+}
+.formulaire{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    color: white;
+    
+    margin-top: 60px;
+    
+    
+    
+}
+.form button {
+    width: 310px;
+    height: 30px;
+    border-radius: 4px;
+    border: 2px solid  rgb(28, 17, 39);
+    margin: 20px;
+    background-color:  rgb(28, 17, 39);
+    margin: 20px;
+    color: white;
+    margin: 5px ;
+    border-style: ridge;
+    margin-left: 550px;
+    
+}
+input{
+    border: 2px solid  rgb(45, 41, 49);
+  border-radius: 4px;
+  width: 300px;
+  height: 25px;
+  background-color: rgb(28, 17, 39);
+  margin: 20px;
+  margin-left: 550px;
+  border-style: ridge;
+  color: white;
+}
+textarea{
+    width: 300px;
+  height: 40px;
+  background-color:rgb(28, 17, 39);
+  margin: 20px;
+  border-radius: 4px ;
+  border-style: ridge;
+  margin-left: 550px;
+  color: white;
+}
+label{
+    font-size: 15px;
+    padding-left: 550px;
+}
